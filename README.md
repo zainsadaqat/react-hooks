@@ -1,4 +1,4 @@
-React Hooks Series by Zain
+React Hooks Series by Zain Sadaqat
 
 - useState
   - useState with Number, Boolean, String, Array, and Object
