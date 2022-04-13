@@ -1,4 +1,4 @@
-React Hooks
+React Hooks Series
 
 - useState
   - useState with Number, Boolean, String, Array, and Object
