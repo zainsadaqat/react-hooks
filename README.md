@@ -6,7 +6,6 @@ React Hooks Series by Zain Sadaqat
   - without dependency array
   - with empty dependency array
   - dependency array with name
-
 - useContext
 - useRef
 - useReducer
