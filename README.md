@@ -11,3 +11,4 @@ React Hooks Series by Zain Sadaqat
 - useRef
 - useReducer
 - useMemo
+- useCallback
