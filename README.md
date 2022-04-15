@@ -10,3 +10,4 @@ React Hooks Series by Zain Sadaqat
 - useContext
 - useRef
 - useReducer
+- useMemo
