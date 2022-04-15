@@ -8,4 +8,5 @@ React Hooks Series by Zain Sadaqat
   - dependency array with name
 
 - useContext
+- useRef
 - useReducer
