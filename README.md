@@ -12,3 +12,4 @@ React Hooks Series by Zain Sadaqat
 - useReducer
 - useMemo
 - useCallback
+- Custom Hooks
