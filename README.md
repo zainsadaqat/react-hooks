@@ -7,9 +7,9 @@ Important React Hooks Series by Zain Sadaqat
   - with empty dependency array
   - dependency array with name
   - clean up function in useEffect hook
-- useContext
 - useRef
 - Difference between useState and useRef
+- useContext
 - useReducer
 - useMemo
 - useCallback
